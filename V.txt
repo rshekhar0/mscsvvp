@@ -1,0 +1,59 @@
+Migration 
+is when a virtual machine (VM) moves from one computer to another or changes where its data is stored, all while it is still working.
+
+Monitor
+A monitor is a tool that keeps an eye on how well virtual machines and other parts of a computer system are working and using resources.
+
+1. vSphere: 
+VMware vSphere is a system that helps run and manage virtual computers in the cloud.
+
+2. vMotion: 
+VMware vMotion lets you move running virtual computers between physical servers without any downtime, keeping everything running smoothly.
+
+3. Resource Pools: 
+Resource pools are groups of computer resources (like CPU and memory) that can be shared with virtual computers based on their needs, making resource management easier.
+
+4. Virtual Machines (VMs): 
+Virtual machines are like software versions of real computers that can run programs and operating systems. They operate in a virtual environment like VMware vSphere.
+
+5. ESXi host: 
+ESXi is software that allows a physical server to run virtual machines. 
+An ESXi host is simply a physical server that uses this software.
+
+6. vCenter Server Appliance: 
+vCenter Server Appliance is a ready-made software tool that helps manage multiple ESXi hosts and their virtual machines from one place.
+
+7. vSphere Update Manager: 
+This tool helps keep computer systems updated by fixing software and security issues for servers and virtual machines.  
+
+8. vSphere DRS: 
+This feature spreads computer works evenly among servers, so everything runs smoothly, moving virtual machines around as needed.  
+
+9. Standard Switch: 
+This is a virtual switch that connects virtual machines to the internet and to each other on the same server.  
+
+10. Port Group: 
+This is a way to organize different connections on a switch, allowing you to set rules for how virtual machines connect to networks.  
+
+11. VMFS: (Virtual Machine File System)
+This is a special system for managing storage that helps virtual machines work efficiently and safely save data.  
+
+12. iSCSI: (Internet Small Computer Systems Interface)
+This is a method to send storage commands over the internet, allowing virtual machines to use storage devices connected through the network.
+
+13. NFS: (Network File System)
+NFS is a way to access files from another computer over a network. 
+In VMware vSphere, it helps store and access information for virtual machines (VMs) on special storage devices.
+
+14. Cluster: 
+A cluster in VMware vSphere is a group of servers that work together as one. 
+This setup allows for features that help move virtual machines around and keep them running smoothly.
+
+
+15. Template:
+ A template in VMware vSphere is like a master copy of a virtual machine that you can use to quickly make many identical VMs. 
+This saves time and makes sure they are all set up the same way.
+
+16. Active Directory: 
+Active Directory is a system made by Microsoft for managing users and computers in a network. 
+It keeps track of who can access what and stores information about different resources.
